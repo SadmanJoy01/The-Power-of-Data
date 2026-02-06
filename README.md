@@ -18,7 +18,7 @@ No technical background needed!
 
 ---
 
-## 📚 What You’ll Learn Here
+![Data](images/Data floating.png)
 
 ### 1️⃣ What Is Data? 🧩
 Data is **basic information** we collect every day.
