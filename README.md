@@ -18,7 +18,7 @@ No technical background needed!
 
 ---
 
-![Data](images/Data floating.png)
+![Data](images/data.png)
 
 ### 1️⃣ What Is Data? 🧩
 Data is **basic information** we collect every day.
